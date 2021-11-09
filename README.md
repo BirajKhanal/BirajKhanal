@@ -6,7 +6,8 @@
 <!--START_SECTION:colourise-->
 <p align=center>
 <img src="https://img.shields.io/badge/-Python-FF0000?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/-SQL-FF0000?style=for-the-badge&logo="sql"/>
+<img src="https://img.shields.io/badge/-MySQL-violet?style=for-the-badge&logo=MySQL"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-green?style=for-the-badge&logo=postgreSQL"/>
 <img src="https://img.shields.io/badge/-HTML5-007FFF?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-0000FF?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/-React-FFFF00?style=for-the-badge&logo=react"/>
