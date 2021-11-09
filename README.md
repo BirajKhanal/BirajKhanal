@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Biraj Khanal <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Primarily interested in statistics and machine learning.</h3>
+<h3 align="center">Primarily interested in data science.</h3>
 
 <h3> 👨‍💻 Languages I use</h3>
 
